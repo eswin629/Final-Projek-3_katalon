@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vulcan Hi Navy WS</name>
+   <tag></tag>
+   <elementGuidId>c5fd358c-8381-4652-b2d1-c4bf180a04cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.grid-product__link.quick-product__btn.js-screen-open-product-4177063379049.js-no-transition > div.grid-product__meta > div.grid-product__title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CollectionAjaxContent']/div/div[3]/div/a/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9bf125fb-d1bf-4ecd-95e4-635022085158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-product__title</value>
+      <webElementGuid>e0dd8ed9-d448-45c8-8331-64ec6045afa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vulcan Hi Navy WS</value>
+      <webElementGuid>73f38386-9251-4043-b7bd-15053fa11594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CollectionAjaxContent&quot;)/div[@class=&quot;grid grid--uniform grid--scattered-large-4 grid--scattered-small-2 small--grid--flush&quot;]/div[@class=&quot;grid__item grid-product small--one-half medium-up--one-quarter aos-init aos-animate&quot;]/div[@class=&quot;grid-product__content&quot;]/a[@class=&quot;grid-product__link quick-product__btn js-screen-open-product-4177063379049 js-no-transition&quot;]/div[@class=&quot;grid-product__meta&quot;]/div[@class=&quot;grid-product__title&quot;]</value>
+      <webElementGuid>79322782-75a2-43b8-9db4-7f6e617a7991</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CollectionAjaxContent']/div/div[3]/div/a/div[2]/div</value>
+      <webElementGuid>17374e9d-383d-4e02-8d99-4c7eb37a46a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 275.000,00'])[1]/preceding::div[1]</value>
+      <webElementGuid>0e2532b5-4a27-4a52-9bc4-9245642a5a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vulcan Hi Navy WS']/parent::*</value>
+      <webElementGuid>b6377d26-346c-4ae9-9e5c-6e3b9b3cd390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a/div[2]/div</value>
+      <webElementGuid>c1811dfa-14ec-4331-882f-ba0d57aa1dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Vulcan Hi Navy WS' or . = 'Vulcan Hi Navy WS')]</value>
+      <webElementGuid>041e468c-611b-4230-9740-9654c3090fa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
